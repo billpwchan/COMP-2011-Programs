@@ -1,0 +1,40 @@
+a	The first letter of English alphabet	noun
+an	The form of a before an initial vowel sound	noun
+apple	A red fruit with sweet taste	noun
+bed	A piece of furniture	noun
+before	Earlier or sooner than	adverb
+begin	To start doing something	verb
+being	Existence of something	noun
+binge	A period of eating too much	noun
+bright	Radiating or reflecting light	adjective
+civic	Connected with town	adjective
+earth	The ground	noun
+enjoyable	A feeling of pleasure	adjective
+fall	The action of moving towards the ground	verb
+frost	To cover with frost	verb
+ground	The solid surface of the earth	noun
+happy	An emotion of feeling good	adjective
+hater	Someone who hates something	noun
+have	To possess	verb
+heart	An organ to maintain blood flow	noun
+i	Used by a speaker in referring to himself or herself	noun
+is	3rd person singular present indicative of be	verb
+it	Used to represent an inanimate thing	noun
+moonlight	The light of the moon	noun
+my	A form of the possessive case of I	noun
+on	So as to be or remain supported by or suspended from	adverb
+pen	Instruments for writing or drawing with ink	noun
+pencil	A writing tool with graphite in core axis	noun
+pineapple	A sweet tropical yellow fruit with stiff leaves	noun
+quickly	Moving fast	adverb
+radar	An tool for detecting	noun
+refer	An action of connecting somebody to something	verb
+reset	Place something in a correct manner	verb
+responsibly	Being responsible	adverb
+run	The action of moving fast by leg	verb
+steer	Move in certain direction	verb
+suppose	To assume	verb
+swiftly	Moving fast	adverb
+the	Used especially before a noun	adjective
+yellow	A color of lemon	noun
+z	The last letter of English alphabet	noun
